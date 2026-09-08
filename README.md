@@ -11,6 +11,8 @@ I'm a Spanish entrepreneur based in Madrid and the co-founder of **Hellomatik**,
 - ✍️ I write the Kodalogic blog: 58 posts on Looker Studio reporting, all signed.
 - 📄 **How we build a company's ontology** (2026) — the method, layer by layer · [doi.org/10.5281/zenodo.22647735](https://doi.org/10.5281/zenodo.22647735) · [read the deck](https://speakerdeck.com/isaaccorrea2/how-we-build-a-companys-ontology) · also on [Figshare](https://doi.org/10.6084/m9.figshare.33465184), [ResearchGate](https://www.researchgate.net/profile/Isaac-Correa-4) and [Academia.edu](https://www.academia.edu/175206619)
 
+<p align="center"><img src="https://raw.githubusercontent.com/isaac-correa/isaac-correa/main/isaac-y-daniel-correa.jpg" alt="Isaac Correa and Daniel Correa, co-founders of Kodalogic and Hellomatik" width="640" /><br /><sub>Isaac Correa (left) and Daniel Correa, co-founders of Kodalogic and Hellomatik.</sub></p>
+
 Before founding Kodalogic in September 2024, I built more than two hundred Looker Studio dashboards for clients one commission at a time — 107 client reviews, every one five stars. Every single one started from the same blank canvas. Kodalogic exists because building the same report two hundred times is a poor way to spend two hundred people's money.
 
 📍 Madrid, Spain · [LinkedIn](https://www.linkedin.com/in/isaac-correa-villa/) · [ORCID 0009-0003-0657-4419](https://orcid.org/0009-0003-0657-4419) · [Speaker Deck](https://speakerdeck.com/isaaccorrea2) · [Substack](https://substack.com/@isaaccorrea1) · [about.me](https://about.me/isaaccorrea) · [Gravatar](https://gravatar.com/isaaccorrea2002) · [OSF](https://osf.io/cyqx6/)
