@@ -1,5 +1,7 @@
 ### Isaac Correa
 
+<img src="https://raw.githubusercontent.com/isaac-correa/isaac-correa/main/isaac-correa.jpg" alt="Isaac Correa, co-founder of Hellomatik and Kodalogic, in Madrid" width="220" align="right" />
+
 I'm a Spanish entrepreneur based in Madrid and the co-founder of **Hellomatik**, an AI platform for customer-service automation. I'm also a co-founder of **Kodalogic**, the company behind the ready-made Google Data Studio (formerly Looker Studio) dashboard templates. My Kodalogic co-founder is my brother, Daniel Correa.
 
 **What I actually do:** I put new AI tools to work inside a company with real invoices, stock and purchase orders, and then publish what the numbers say — including where they fail. Most of what gets written about AI in business is a demo or a promise; I'd rather publish production data with the method visible.
