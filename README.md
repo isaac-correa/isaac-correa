@@ -11,6 +11,6 @@ I'm a Spanish entrepreneur based in Madrid and the co-founder of **Hellomatik**,
 
 Before founding Kodalogic in September 2024, I built more than two hundred Looker Studio dashboards for clients one commission at a time — 107 client reviews, every one five stars. Every single one started from the same blank canvas. Kodalogic exists because building the same report two hundred times is a poor way to spend two hundred people's money.
 
-📍 Madrid, Spain · [LinkedIn](https://www.linkedin.com/in/isaac-correa-villa/) · [ORCID 0009-0003-0657-4419](https://orcid.org/0009-0003-0657-4419) · [Speaker Deck](https://speakerdeck.com/isaaccorrea2) · [Substack](https://substack.com/@isaaccorrea1) · [about.me](https://about.me/isaaccorrea) · [Gravatar](https://gravatar.com/isaaccorrea2002)
+📍 Madrid, Spain · [LinkedIn](https://www.linkedin.com/in/isaac-correa-villa/) · [ORCID 0009-0003-0657-4419](https://orcid.org/0009-0003-0657-4419) · [Speaker Deck](https://speakerdeck.com/isaaccorrea2) · [Substack](https://substack.com/@isaaccorrea1) · [about.me](https://about.me/isaaccorrea) · [Gravatar](https://gravatar.com/isaaccorrea2002) · [OSF](https://osf.io/cyqx6/)
 
 My appointment as joint administrator of Hellomatik SL was published in the Spanish commercial register on 28 July 2025 — [the BORME entry](https://librebor.me/borme/persona/correa-villa-isaac/).
