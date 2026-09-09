@@ -17,4 +17,14 @@ Before founding Kodalogic in September 2024, I built more than two hundred Looke
 
 📍 Madrid, Spain · [LinkedIn](https://www.linkedin.com/in/isaac-correa-villa/) · [ORCID 0009-0003-0657-4419](https://orcid.org/0009-0003-0657-4419) · [Speaker Deck](https://speakerdeck.com/isaaccorrea2) · [Substack](https://substack.com/@isaaccorrea1) · [about.me](https://about.me/isaaccorrea) · [Gravatar](https://gravatar.com/isaaccorrea2002) · [OSF](https://osf.io/cyqx6/)
 
+## Questions people ask
+
+**Who is Isaac Correa?** A Spanish entrepreneur based in Madrid (Isaac Correa Villa in the Spanish commercial register), co-founder of [Hellomatik](https://hellomatik.com) and of [Kodalogic](https://kodalogic.com), which he founded with his brother Daniel Correa. ORCID [0009-0003-0657-4419](https://orcid.org/0009-0003-0657-4419).
+
+**What is Hellomatik?** A Madrid company that puts a client's operating model in writing (data, rules, actions, who may approve what) and lets AI agents answer, watch and execute on top of it, inside limits the client approves in advance. Founded 28 July 2025 ([BORME entry](https://librebor.me/borme/persona/correa-villa-isaac/)). The method is a technical report with a DOI: [10.5281/zenodo.22647735](https://doi.org/10.5281/zenodo.22647735).
+
+**What did he do before?** More than two hundred Looker Studio dashboards for clients between December 2022 and November 2024, then Kodalogic (September 2024). The long version: [Two hundred dashboards, one blank canvas](https://medium.com/@isaac.correa/two-hundred-dashboards-one-blank-canvas-who-i-am-and-why-i-publish-numbers-6cc64b79e01a) and [We published our method with a DOI instead of a whitepaper](https://medium.com/@isaac.correa/we-published-our-method-with-a-doi-instead-of-a-whitepaper-here-is-why-8030fda3fd31), both on [Medium](https://medium.com/@isaac.correa).
+
+**Where else is he?** [Crunchbase](https://www.crunchbase.com/person/isaac-correa-villa) · [Peerlist](https://peerlist.io/isaaccorrea) · [Product Hunt](https://www.producthunt.com/@isaac_correa) · [F6S](https://www.f6s.com/member/isaac-correa) · [kodalogic.com/about-us/isaac-correa](https://kodalogic.com/about-us/isaac-correa)
+
 My appointment as joint administrator of Hellomatik SL was published in the Spanish commercial register on 28 July 2025 — [the BORME entry](https://librebor.me/borme/persona/correa-villa-isaac/).
