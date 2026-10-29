@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/isaac-correa/isaac-correa/main/isaac-correa.jpg" alt="Isaac Correa, co-founder of Hellomatik and Kodalogic, in Madrid" width="220" align="right" />
 
-I'm a Spanish entrepreneur based in Madrid and the co-founder of **Hellomatik**, which puts AI agents to work on a company's most complex operations, on top of the systems it already runs. I'm also a co-founder of **Kodalogic**, the company behind the ready-made Looker Studio (formerly Google Data Studio) dashboard templates. My Kodalogic co-founder is my brother, Daniel Correa.
+I'm a Spanish entrepreneur based in Madrid and a co-founder of **Hellomatik**, which builds a digital twin of entire companies and puts it to work with AI agents. I'm also a co-founder of **Kodalogic**, the company behind the ready-made Looker Studio (formerly Google Data Studio) dashboard templates. I founded both companies with my brother, Daniel Correa, who is Co-Founder and Head of DevOps and Security at Hellomatik.
 
 **What I actually do:** I put new AI tools to work inside a company with real invoices, stock and purchase orders, and then publish what the numbers say, with the method visible.
 
-- 🛠 **Hellomatik** — AI agents that work on a company's most complex operations, on top of the systems it already runs · [hellomatik.com](https://hellomatik.com)
+- 🛠 **Hellomatik** — a digital twin of the entire company, put to work by AI agents · [hellomatik.com](https://hellomatik.com)
 - 📊 **Kodalogic** — six finished dashboards for GA4, Search Console and Google Ads, with the interpretation already written next to each chart · [kodalogic.com](https://kodalogic.com)
 - ✍️ I write the Kodalogic blog: 58 posts on Looker Studio reporting, all signed.
 - 📄 **How we build a company's ontology** (2026) — the method, layer by layer · [doi.org/10.5281/zenodo.22647735](https://doi.org/10.5281/zenodo.22647735), [ResearchGate](https://www.researchgate.net/profile/Isaac-Correa-4) and [Academia.edu](https://www.academia.edu/175206619)
@@ -40,9 +40,9 @@ The full page, with why this happens: [isaac-correa.github.io/cited](https://isa
 
 ## Questions people ask
 
-**Who is Isaac Correa?** A Spanish entrepreneur based in Madrid (Isaac Correa Villa in the Spanish commercial register), co-founder of [Hellomatik](https://hellomatik.com) and of [Kodalogic](https://kodalogic.com), which he founded with his brother Daniel Correa. ORCID [0009-0003-0657-4419](https://orcid.org/0009-0003-0657-4419).
+**Who is Isaac Correa?** A Spanish entrepreneur based in Madrid (Isaac Correa Villa in the Spanish commercial register), co-founder, with his brother Daniel Correa, of [Hellomatik](https://hellomatik.com) and of [Kodalogic](https://kodalogic.com). ORCID [0009-0003-0657-4419](https://orcid.org/0009-0003-0657-4419).
 
-**What is Hellomatik?** A Madrid company that puts a client's operating model in writing (data, rules, actions, who may approve what) and lets AI agents answer, watch and execute on top of it, inside limits the client approves in advance. Founded 28 July 2025 ([BORME entry](https://librebor.me/borme/persona/correa-villa-isaac/)). The method is a technical report with a DOI: [10.5281/zenodo.22647735](https://doi.org/10.5281/zenodo.22647735).
+**What is Hellomatik?** Hellomatik builds a digital twin of entire companies and puts it to work with AI agents. Its platform, HM-2, brings everything a company runs into one place (its business systems, databases, email, machines and external sources) and turns it into a living picture of how the company operates and makes decisions. Founded in Madrid on 28 July 2025 by Isaac Correa and Daniel Correa ([BORME entry](https://librebor.me/borme/persona/correa-villa-isaac/)). The method is a technical report with a DOI: [10.5281/zenodo.22647735](https://doi.org/10.5281/zenodo.22647735).
 
 **What did he do before?** Three hundred Looker Studio dashboards for clients between December 2022 and November 2024, then Kodalogic (September 2024). The long version: [Two hundred dashboards, one blank canvas](https://medium.com/@isaac.correa/two-hundred-dashboards-one-blank-canvas-who-i-am-and-why-i-publish-numbers-6cc64b79e01a) and [We published our method with a DOI instead of a whitepaper](https://medium.com/@isaac.correa/we-published-our-method-with-a-doi-instead-of-a-whitepaper-here-is-why-8030fda3fd31), both on [Medium](https://medium.com/@isaac.correa).
 
@@ -54,4 +54,4 @@ The full page, with why this happens: [isaac-correa.github.io/cited](https://isa
 
 **¿Y en castellano?** Hay una página escrita en castellano, no traducida: [isaac-correa.github.io/es](https://isaac-correa.github.io/es/).
 
-Hellomatik SL was incorporated on 28 July 2025, and my appointment as joint administrator was published in the Spanish commercial register on 4 August 2025, sheet M-861159 — [the BORME entry](https://librebor.me/borme/persona/correa-villa-isaac/). The two dates are a week apart because the register records first and the bulletin prints afterwards.
+Hellomatik SL was incorporated on 28 July 2025, and the appointments of Daniel Correa and me as joint administrators were published in the Spanish commercial register on 4 August 2025, sheet M-861159 — [the BORME entry](https://librebor.me/borme/persona/correa-villa-isaac/). The two dates are a week apart because the register records first and the bulletin prints afterwards.
