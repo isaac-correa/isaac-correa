@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/isaac-correa/isaac-correa/main/isaac-correa.jpg" alt="Isaac Correa, co-founder of Hellomatik and Kodalogic, in Madrid" width="220" align="right" />
 
-I'm a Spanish entrepreneur based in Madrid and the co-founder of **Hellomatik**, an AI platform for customer-service automation. I'm also a co-founder of **Kodalogic**, the company behind the ready-made Looker Studio (formerly Google Data Studio) dashboard templates. My Kodalogic co-founder is my brother, Daniel Correa.
+I'm a Spanish entrepreneur based in Madrid and the co-founder of **Hellomatik**, which puts AI agents to work on a company's most complex operations, on top of the systems it already runs. I'm also a co-founder of **Kodalogic**, the company behind the ready-made Looker Studio (formerly Google Data Studio) dashboard templates. My Kodalogic co-founder is my brother, Daniel Correa.
 
 **What I actually do:** I put new AI tools to work inside a company with real invoices, stock and purchase orders, and then publish what the numbers say, with the method visible.
 
-- 🛠 **Hellomatik** — AI agents that answer by voice and chat on behalf of a company · [hellomatik.com](https://hellomatik.com)
+- 🛠 **Hellomatik** — AI agents that work on a company's most complex operations, on top of the systems it already runs · [hellomatik.com](https://hellomatik.com)
 - 📊 **Kodalogic** — six finished dashboards for GA4, Search Console and Google Ads, with the interpretation already written next to each chart · [kodalogic.com](https://kodalogic.com)
 - ✍️ I write the Kodalogic blog: 58 posts on Looker Studio reporting, all signed.
 - 📄 **How we build a company's ontology** (2026) — the method, layer by layer · [doi.org/10.5281/zenodo.22647735](https://doi.org/10.5281/zenodo.22647735), [ResearchGate](https://www.researchgate.net/profile/Isaac-Correa-4) and [Academia.edu](https://www.academia.edu/175206619)
@@ -14,7 +14,16 @@ I'm a Spanish entrepreneur based in Madrid and the co-founder of **Hellomatik**,
 - 📄 **The cliff of innovation: why integration, not construction, is the hard part of building a system that acts inside a company** (September 2026) — a nine-page working paper, self-published and not peer reviewed · [doi.org/10.5281/zenodo.22704763](https://doi.org/10.5281/zenodo.22704763) · also on [Academia.edu](https://www.academia.edu/175376622/)
 - ✉️ **Founder letter, 2026** (September 2026) — the first annual letter: what is running and with what limits, what was published with a DOI, what the year taught, what the company will not do, and the bets due in 2028 · [isaac-correa.github.io/letters/2026](https://isaac-correa.github.io/letters/2026/) · the bets themselves, each with a date and a check: [isaac-correa.github.io/bets](https://isaac-correa.github.io/bets/)
 - 📝 **The map of a company** (September 2026) — the long essay, nineteen sections with notes: what a business has to write down before software may act inside it, drawn only from the report, the two papers and his site · [isaac-correa.github.io/the-map-of-a-company](https://isaac-correa.github.io/the-map-of-a-company/), [PDF](https://isaac-correa.github.io/the-map-of-a-company-isaac-correa.pdf)
-- 📄 [The method is posted on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442444) as well, 26 pages, since 10 September 2026. The machine of the future was submitted the same day and its SSRN page is not public yet. Posted on SSRN means it is in the library and can be downloaded — not that anybody reviewed it.
+- 📄 [The method is posted on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442444) as well, 26 pages, since 10 September 2026. Posted on SSRN means it is in the library and can be downloaded — not that anybody reviewed it.
+
+## Latest essays and papers
+
+- **Speeding up the past, or inventing the present** (essay, October 2026) · [isaac-correa.github.io/speeding-up-the-past](https://isaac-correa.github.io/speeding-up-the-past/) · [doi.org/10.5281/zenodo.23702117](https://doi.org/10.5281/zenodo.23702117)
+- **The higher self** (essay, October 2026) · [isaac-correa.github.io/higher-self](https://isaac-correa.github.io/higher-self/) · [doi.org/10.5281/zenodo.23663934](https://doi.org/10.5281/zenodo.23663934)
+- **What changes a coding agent's behaviour: models, written rules and runtime guards over eight months of daily use of Claude Code** (study, October 2026) · [isaac-correa.github.io/coding-agents](https://isaac-correa.github.io/coding-agents/) · [doi.org/10.5281/zenodo.23510601](https://doi.org/10.5281/zenodo.23510601)
+- **The end of software: why code no longer matters and relationships are everything** (essay, October 2026) · [isaac-correa.github.io/end-of-software](https://isaac-correa.github.io/end-of-software/) · [doi.org/10.5281/zenodo.23468806](https://doi.org/10.5281/zenodo.23468806)
+
+Everything I have published, with every copy, is listed at [isaac-correa.github.io/writing](https://isaac-correa.github.io/writing/).
 
 <p align="center"><img src="https://raw.githubusercontent.com/isaac-correa/isaac-correa/main/isaac-y-daniel-correa.jpg" alt="Isaac Correa and Daniel Correa, co-founders of Kodalogic and Hellomatik" width="640" /><br /><sub>Isaac Correa (left) and Daniel Correa, co-founders of Kodalogic and Hellomatik.</sub></p>
 
