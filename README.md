@@ -18,11 +18,11 @@ I'm a Spanish entrepreneur based in Madrid and a co-founder of **Hellomatik**, w
 
 ## Latest essays and papers
 
+- **Communication Stops Passing Through People** (essay, November 2026) · [isaac-correa.github.io/communication-stops-passing-through-people](https://isaac-correa.github.io/communication-stops-passing-through-people/) · [doi.org/10.5281/zenodo.23922799](https://doi.org/10.5281/zenodo.23922799)
 - **The Death of Search** (essay, November 2026) · [isaac-correa.github.io/the-death-of-search](https://isaac-correa.github.io/the-death-of-search/) · [doi.org/10.5281/zenodo.23863805](https://doi.org/10.5281/zenodo.23863805)
 - **Speeding up the past, or inventing the present** (essay, October 2026) · [isaac-correa.github.io/speeding-up-the-past](https://isaac-correa.github.io/speeding-up-the-past/) · [doi.org/10.5281/zenodo.23702117](https://doi.org/10.5281/zenodo.23702117)
 - **The higher self** (essay, October 2026) · [isaac-correa.github.io/higher-self](https://isaac-correa.github.io/higher-self/) · [doi.org/10.5281/zenodo.23663934](https://doi.org/10.5281/zenodo.23663934)
 - **What changes a coding agent's behaviour: models, written rules and runtime guards over eight months of daily use of Claude Code** (study, October 2026) · [isaac-correa.github.io/coding-agents](https://isaac-correa.github.io/coding-agents/) · [doi.org/10.5281/zenodo.23510601](https://doi.org/10.5281/zenodo.23510601)
-- **The end of software: why code no longer matters and relationships are everything** (essay, October 2026) · [isaac-correa.github.io/end-of-software](https://isaac-correa.github.io/end-of-software/) · [doi.org/10.5281/zenodo.23468806](https://doi.org/10.5281/zenodo.23468806)
 
 Everything I have published, with every copy, is listed at [isaac-correa.github.io/writing](https://isaac-correa.github.io/writing/).
 
