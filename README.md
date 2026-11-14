@@ -18,7 +18,7 @@ I'm a Spanish entrepreneur based in Madrid and a co-founder of **Hellomatik**, w
 
 ## Latest essays and papers
 
-- **The End of the Mouse: Why We'll Stop Serving the Machine** (essay, November 2026) · [isaac-correa.github.io/the-end-of-the-mouse](https://isaac-correa.github.io/the-end-of-the-mouse/)
+- **The End of the Mouse: Why We'll Stop Serving the Machine** (essay, November 2026) · [isaac-correa.github.io/the-end-of-the-mouse](https://isaac-correa.github.io/the-end-of-the-mouse/) · [doi.org/10.5281/zenodo.24220790](https://doi.org/10.5281/zenodo.24220790)
 - **Communication Stops Passing Through People** (essay, November 2026) · [isaac-correa.github.io/communication-stops-passing-through-people](https://isaac-correa.github.io/communication-stops-passing-through-people/) · [doi.org/10.5281/zenodo.23922799](https://doi.org/10.5281/zenodo.23922799)
 - **The Death of Search** (essay, November 2026) · [isaac-correa.github.io/the-death-of-search](https://isaac-correa.github.io/the-death-of-search/) · [doi.org/10.5281/zenodo.23863805](https://doi.org/10.5281/zenodo.23863805)
 - **Speeding up the past, or inventing the present** (essay, October 2026) · [isaac-correa.github.io/speeding-up-the-past](https://isaac-correa.github.io/speeding-up-the-past/) · [doi.org/10.5281/zenodo.23702117](https://doi.org/10.5281/zenodo.23702117)
